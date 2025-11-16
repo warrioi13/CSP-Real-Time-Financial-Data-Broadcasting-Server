@@ -19,13 +19,14 @@ This README shows how to build and run the multithreaded **C** server & client t
 
 make
 make clean
-
+<img src="MAKE.jpeg" width="400">
 ---
 
 ## Run
 
 ### Terminal 1 — Start server
 make run-server
+<img src="MAKERUN.jpeg" width="400">
 
 ### Terminal 2 — Start client
 make run-client
