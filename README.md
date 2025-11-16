@@ -105,7 +105,7 @@ PORTFOLIO
 
 ### 5) SUBSCRIBE <symbol> [threshold]
 
-<img src="SUBSCRIBR.jpeg" width="400">
+<img src="SUBSCRIBE.jpeg" width="400">
 
 ---
 
