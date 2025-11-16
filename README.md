@@ -105,22 +105,7 @@ PORTFOLIO
 
 ### 5) SUBSCRIBE <symbol> [threshold]
 
-Command:
-SUBSCRIBE AAPL 2.5
-
-Output:
-✓ Subscribed to AAPL for price changes of 2.5% or more.
-
->
-
-Async Alerts:
-🔔 BUY ALERT: AAPL at $140.25 (-6.50% drop)
-
->
-
-🔔 SELL ALERT: AAPL at $160.00 (+6.67% rise)
-
->
+<img src="SUBSCRIBR.jpeg" width="400">
 
 ---
 
