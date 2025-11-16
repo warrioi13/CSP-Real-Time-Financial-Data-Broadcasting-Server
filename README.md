@@ -30,8 +30,8 @@ make run-server
 
 ### Terminal 2 — Start client
 make run-client
-# or connect to remote
-./client 192.168.1.10
+
+<img src="CLIENT.jpeg" width="400">
 
 ---
 
