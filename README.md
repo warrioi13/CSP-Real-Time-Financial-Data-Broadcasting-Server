@@ -76,13 +76,10 @@ ERROR: Insufficient funds. Need $150000.00, have $100000.00
 ### 3) SELL <symbol> <qty>
 
 Command:
-SELL AAPL 5
+SELL AMZN 4
 
-Output:
-✓ SOLD 5 shares of AAPL at $152.00
-Proceeds: $760.00
-Profit/Loss: +$10.00 (1.33%)
-New balance: $99260.00
+<img src="SELL.jpeg" width="400">
+
 
 >
 
