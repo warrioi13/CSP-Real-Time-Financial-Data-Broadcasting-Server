@@ -47,7 +47,7 @@ AVAILABLE
 
 Output:
 
-<img src="C:\Users\Divy Goti\OneDrive\Desktop\CSP" width="400">
+<img src="AVAILABLE.jpeg" width="400">
 
 
 >
