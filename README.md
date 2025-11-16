@@ -57,12 +57,11 @@ Output:
 ### 2) BUY <symbol> <qty>
 
 Command:
-BUY AAPL 10
+BUY AMZN 5
 
 Output:
-✓ BOUGHT 10 shares of AAPL at $150.00
-Total cost: $1500.00
-Remaining balance: $98500.00
+
+<img src="BUY.jpeg" width="400">
 
 >
 
@@ -116,9 +115,7 @@ BUY AAPL 10
 PORTFOLIO
 SUBSCRIBE AAPL 2.0
 # alerts appear automatically
-SELL AAPL 5
-PORTFOLIO
-QUIT
+<img src="ALERT.jpeg" width="400">
 
 ---
 
